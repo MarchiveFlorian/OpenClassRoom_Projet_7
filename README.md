@@ -9,4 +9,4 @@ Installation :
 - Démarrer le serveur avec la commande npm start
 
 
-Code du clone GitHub: https://github.com/MarchiveFlorian/Projet_7.git
+Code du clone GitHub: https://github.com/MarchiveFlorian/OpenClassRoom_Projet_7.git
